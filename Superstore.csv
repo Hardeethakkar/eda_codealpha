@@ -1,0 +1,16 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2019-152156,11-08-2019,11-11-2019,Second Class,CG-12520,Claire Gute,Consumer,United States,Houston,Texas,South,Furniture,Bookcases,Bush Bookcase,261.96,2,0,41.91
+2,CA-2019-152157,12-09-2019,15-09-2019,Second Class,AB-10001,John Smith,Consumer,United States,Dallas,Texas,South,Furniture,Chairs,Office Chair,400.50,3,0.1,50.25
+3,CA-2019-152158,01-10-2019,05-10-2019,Standard Class,CD-10002,Emma Brown,Corporate,United States,Los Angeles,California,West,Office Supplies,Labels,Address Labels,14.62,2,0,6.87
+4,CA-2019-152159,02-11-2019,06-11-2019,Standard Class,EF-10003,David Lee,Consumer,United States,San Jose,California,West,Technology,Phones,iPhone Case,302.94,3,0.2,33.33
+5,CA-2019-152160,03-12-2019,08-12-2019,Second Class,GH-10004,Sara Khan,Corporate,United States,Chicago,Illinois,Central,Furniture,Tables,Office Table,957.58,5,0.45,-383.03
+6,CA-2019-152161,04-01-2019,09-01-2019,Standard Class,IJ-10005,Ravi Mehta,Consumer,United States,Austin,Texas,South,Office Supplies,Paper,Xerox Paper,19.44,3,0,9.33
+7,CA-2019-152162,05-02-2019,10-02-2019,Second Class,KL-10006,Alice Walker,Corporate,United States,Seattle,Washington,West,Technology,Accessories,USB Mouse,25.99,2,0,8.00
+8,CA-2019-152163,06-03-2019,11-03-2019,Standard Class,MN-10007,James Hall,Consumer,United States,Miami,Florida,South,Office Supplies,Storage,File Organizer,22.37,3,0,2.52
+9,CA-2019-152164,07-04-2019,12-04-2019,Second Class,OP-10008,Linda Scott,Home Office,United States,New York,New York,East,Furniture,Bookcases,Wood Bookcase,341.96,2,0,54.71
+10,CA-2019-152165,08-05-2019,13-05-2019,Standard Class,QR-10009,Michael Young,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Samsung Phone,199.99,1,0,60.00
+11,CA-2019-152166,09-06-2019,14-06-2019,Second Class,ST-10010,Chris Green,Corporate,United States,Denver,Colorado,West,Office Supplies,Binders,Plastic Binders,18.45,5,0,5.10
+12,CA-2019-152167,10-07-2019,15-07-2019,Standard Class,UV-10011,Nancy Adams,Consumer,United States,Phoenix,Arizona,West,Furniture,Chairs,Desk Chair,450.00,2,0.1,45.00
+13,CA-2019-152168,11-08-2019,16-08-2019,Second Class,WX-10012,Daniel King,Corporate,United States,Houston,Texas,South,Technology,Accessories,Keyboard,35.99,2,0,12.00
+14,CA-2019-152169,12-09-2019,17-09-2019,Standard Class,YZ-10013,Olivia Martin,Consumer,United States,San Diego,California,West,Office Supplies,Paper,Copier Paper,29.99,4,0,12.00
+15,CA-2019-152170,01-10-2019,06-10-2019,Second Class,ZA-10014,Ethan Harris,Home Office,United States,Atlanta,Georgia,South,Furniture,Tables,Small Table,220.00,1,0.2,25.00
